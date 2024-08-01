@@ -1,5 +1,7 @@
 # Unsupervised Learning Exercises
 
+![](img/classical_machine_learning.png)
+
 ## Introduction to Unsupervised Learning
 
 - **Types of Machine Learning Problems**
